@@ -1,0 +1,13 @@
+export const CATCH_DATA = 'CATCH_DATA';
+export const COLLECT_DATA = 'COLLECT_DATA';
+export const LOAD_DATA = 'LOAD_DATA';
+export const LOAD_ERROR = 'LOAD_ERROR';
+export const DELETE_SIGNAL = 'DELETE_SIGNAL';
+export const SF_TABLE = 'SF_TABLE';
+export const SF_ERROR = 'SF_ERROR';
+export const SF_DISTANCES = 'SF_DISTANCES';
+export const ERROR_DISTANCES = 'ERROR_DISTANCES';
+export const GET_DATA = 'GET_DATA';
+export const GET_DATA_ERROR = 'GET_DATA_ERROR';
+export const DELETE_COLLECTION_TABLE = 'DELETE_COLLECTION_TABLE';
+export const GET_ALL_DATA = 'GET_ALL_DATA';
